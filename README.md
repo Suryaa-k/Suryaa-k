@@ -34,15 +34,7 @@
 ## 📊 > `run_diagnostics --stats`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suryaa-k&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFCC&icon_color=00FFCC&text_color=FFFFFF" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Suryaa-k&theme=radical&hide_border=true&background=0D1117&stroke=00FFCC&ring=00FFCC&fire=FF4500&currStreakLabel=00FFCC" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryaa-k&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=FFFFFF" alt="Top Languages" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
