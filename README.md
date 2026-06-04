@@ -1,4 +1,4 @@
-# <p align="center">⚡ **Surya Anish** ⚡</p>
+# <p align="center">⚡ **Surya Anish K** ⚡</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=1300&pause=500&color=00FFCC&center=true&vCenter=true&width=700&height=100&lines=%5B+%2B+%5D+Booting+sys.mainframe...;%5B+%2B+%5D+Loading+Dev_Stack+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%5D;%5B+%2B+%5D+Identity_+Surya+Anish;%5B+%2B+%5D+Role_+Full+Stack+Developer;%5B+%2B+%5D+Status_+ONLINE+%E2%9C%93" alt="Terminal Typing SVG" />
