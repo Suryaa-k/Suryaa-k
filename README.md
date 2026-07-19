@@ -1,31 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:5a2a9e,100:8a2be2&height=280&section=header&text=Surya%20Anish&fontSize=60&fontColor=e0d4ff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:5a2a9e,100:8a2be2&height=280&section=header&text=Surya%20Anish%20K&fontSize=56&fontColor=e0d4ff&animation=fadeIn&fontAlignY=38&desc=Python%20Full-Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+scalable+full-stack+systems;Engineering+AI%2FML+driven+products;MERN+%7C+Django+%7C+Python+%7C+ML;Turning+ideas+into+production-grade+software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+scalable+full-stack+systems;Engineering+AI%2FML+driven+solutions;Python+%7C+Django+%7C+React+%7C+ML;Turning+requirements+into+clean%2C+working+code" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-5A2A9E?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/JNTUH-Class%20of%202025-8A2BE2?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/Location-India-6C3FC5?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-6C3FC5?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a2e"/>
 
 <br/><br/>
 
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://surya-anish.onrender.com/#home"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://www.linkedin.com/in/surya-anish-kudupudi-6a2458227/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="mailto:suryaanish1149198@gmail.com"><img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://github.com/Suryaa-k"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=8a2be2&label=PROFILE+VIEWS&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/github/followers/your-username?style=for-the-badge&color=8a2be2&labelColor=1a1a2e&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/your-username?style=for-the-badge&color=8a2be2&labelColor=1a1a2e&label=STARS"/>
+<img src="https://komarev.com/ghpvc/?username=Suryaa-k&style=for-the-badge&color=8a2be2&label=PROFILE+VIEWS&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/github/followers/Suryaa-k?style=for-the-badge&color=8a2be2&labelColor=1a1a2e&label=FOLLOWERS"/>
 
 </div>
 
@@ -35,32 +34,29 @@
 
 ## 🧠 About Me
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/OpenBotsAI/circuit-svg/main/wave.svg" alt="wave"/>
-
 ```yaml
-name: "Surya Anish"
-role: "Software Engineer | AI/ML Enthusiast | Full-Stack Developer"
-education: "B.Tech, Computer Science & Engineering — JNTUH (2025)"
+name: "Surya Anish K"
+role: "Python Full-Stack Developer | Web Developer | ML Enthusiast"
+education: "B.Tech, Computer Science & Engineering — Malla Reddy Institute of Technology and Science (JNTUH), 2021-2025"
+current: "Python Full-Stack Developer Intern @ CV Corp, Hyderabad"
 focus:
-  - Building production-grade full-stack web applications
-  - Designing AI/ML systems with real-world impact
-  - Writing clean, scalable, maintainable code
-  - Solving problems with a product-first, user-centric mindset
-philosophy: "Engineering software that is fast, reliable, and built to scale."
+  - Building scalable full-stack web applications with Python, Django & React
+  - Designing and deploying AI/ML-driven diagnostic and detection systems
+  - Writing clean, documented, production-ready code
+  - Translating complex requirements into efficient, working software
+philosophy: "Clean code and clear thinking solve most engineering problems."
 ```
 
-I'm a Computer Science & Engineering graduate with a strong foundation in **full-stack development** (MERN, Django, Python) and **machine learning**, currently working as a **Python Full-Stack Developer**. My engineering approach blends backend architecture, frontend craftsmanship, and applied AI/ML to build systems that are technically sound and genuinely useful.
-
-I care deeply about writing production-ready code, designing systems that scale, and translating ambiguous problems into clean, well-architected solutions — from campus platforms to interactive data-visualization tools to consumer-facing applications.
+Motivated Computer Science graduate with hands-on experience in **Python Full-Stack Development**, **ReactJS**, **Django**, and **Machine Learning**. I've designed and deployed scalable web applications and AI-driven solutions, with a strong focus on writing efficient, maintainable code and translating complex requirements into working systems. Currently interning as a **Python Full-Stack Developer at CV Corp**, where I build client-facing features across the full stack and ship production code within agile sprint cycles.
 
 ### 🎯 Open To
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Software%20Engineer%20Roles-1a1a2e?style=flat-square&logo=briefcase&logoColor=A78BFA&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Entry%20Level%20SDE%20Roles-1a1a2e?style=flat-square&logo=briefcase&logoColor=A78BFA&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Python%20Full%20Stack%20Roles-1a1a2e?style=flat-square&logo=python&logoColor=A78BFA&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/AI%2FML%20Engineer%20Roles-1a1a2e?style=flat-square&logo=brain&logoColor=A78BFA&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/Full%20Stack%20Development-1a1a2e?style=flat-square&logo=stackshare&logoColor=A78BFA&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/Freelance%20%2F%20Contract%20Work-1a1a2e?style=flat-square&logo=upwork&logoColor=A78BFA&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Collaborative%20Engineering%20Teams-1a1a2e?style=flat-square&logo=github&logoColor=A78BFA&labelColor=1a1a2e"/>
 
 </div>
 
@@ -71,25 +67,25 @@ I care deeply about writing production-ready code, designing systems that scale,
 ### Languages
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,js,java,cpp,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css&theme=dark" />
 </div>
 
 ### Frontend
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,materialui,vite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,js,html,css&theme=dark" />
 </div>
 
 ### Backend & Databases
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,mongodb,mysql,postgres,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,django,mysql,mongodb,sqlite&theme=dark" />
 </div>
 
-### Cloud, DevOps & Tooling
+### Tools, AI & Platforms
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,postman,vscode,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=github,vscode,git&theme=dark" />
 </div>
 
 ---
@@ -100,12 +96,12 @@ I care deeply about writing production-ready code, designing systems that scale,
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| **Machine Learning Fundamentals** | ⭐⭐⭐⭐☆ | Supervised learning, classification, model evaluation & tuning |
-| **Predictive Modeling** | ⭐⭐⭐⭐☆ | Built diagnostic ML models including Parkinson's disease detection |
-| **Cybersecurity ML** | ⭐⭐⭐☆☆ | Cyber attack detection models using classical ML pipelines |
-| **Data Preprocessing** | ⭐⭐⭐⭐☆ | Feature engineering, cleaning, scaling, pipeline design |
-| **Python for ML** | ⭐⭐⭐⭐⭐ | NumPy, Pandas, scikit-learn, model deployment workflows |
-| **Applied Prompt Engineering** | ⭐⭐⭐⭐☆ | Structured prompting, LLM-assisted workflows, technical interview prep |
+| **Machine Learning (Scikit-learn / Keras)** | ⭐⭐⭐⭐☆ | Ensemble methods, classification, model evaluation & tuning |
+| **Network Intrusion Detection** | ⭐⭐⭐⭐☆ | Built a real-time ML-based cyberattack classifier at 94% accuracy |
+| **Medical Image & Speech Analysis** | ⭐⭐⭐☆☆ | MRI image segmentation & speech feature extraction for diagnostics |
+| **Data Preprocessing & Pipelines** | ⭐⭐⭐⭐☆ | NumPy-based feature engineering, cleaning, and pipeline design |
+| **Desktop GUI for ML Systems** | ⭐⭐⭐☆☆ | Tkinter-based dashboards for non-technical end users |
+| **Prompt Engineering** | ⭐⭐⭐⭐☆ | Structured prompting and applied Generative AI workflows |
 
 </div>
 
@@ -114,6 +110,50 @@ I care deeply about writing production-ready code, designing systems that scale,
 ## 🚀 Featured Projects
 
 <details open>
+<summary><b>🛡️ Detection of Cyber Attacks in Networks using ML Techniques</b></summary>
+
+<br/>
+
+*Final Year Minor Project — MRITS, JNTUH (Jul 2024 – Nov 2024)*
+
+A real-time network intrusion detection system using ensemble ML methods to classify both known and novel cyberattacks, with a Tkinter-based GUI for non-technical monitoring.
+
+| Category | Details |
+|---|---|
+| **Stack** | Python, Tkinter, NumPy, Scikit-learn, Keras |
+| **Scale** | Real-time classification across known & novel attack types |
+| **Performance** | Achieved 94% classification accuracy |
+| **Security** | Automated response mechanisms + behavioral analysis modules |
+| **Impact** | Reduced false-positive alerts by ~35% |
+| **Repository** | [View on GitHub](https://github.com/Suryaa-k?tab=repositories) |
+
+Designed and implemented the full detection pipeline — from feature extraction through ensemble classification — and built a desktop dashboard to visualize threat data for end users without a technical background.
+
+</details>
+
+<details>
+<summary><b>🧬 Detection of Parkinson's Disease through Image & Speech Analysis using AI/ML</b></summary>
+
+<br/>
+
+*Final Year Major Project — MRITS, JNTUH (Dec 2024 – Apr 2025)*
+
+A dual-modality diagnostic system combining brain MRI image analysis and speech pattern analysis to detect early signs of Parkinson's Disease.
+
+| Category | Details |
+|---|---|
+| **Stack** | Python, Tkinter, NumPy, Scikit-learn, Keras |
+| **Scale** | Dual-modality pipeline (imaging + speech) |
+| **Performance** | Reduced diagnostic uncertainty vs. single-modality methods |
+| **Security** | Local, privacy-conscious clinical data handling |
+| **Impact** | Combines structural (substantia nigra) and vocal biomarkers for earlier detection |
+| **Repository** | [View on GitHub](https://github.com/Suryaa-k?tab=repositories) |
+
+Implemented image segmentation to identify structural abnormalities and extracted voice features — pitch, phonation, rhythm — to build a combined ML pipeline with stronger clinical relevance than either modality alone.
+
+</details>
+
+<details>
 <summary><b>🎬 IRFA — Cinematic Movie Discovery Hub</b></summary>
 
 <br/>
@@ -122,14 +162,12 @@ A movie discovery platform with a cinematic dark-theme UI, built to help users f
 
 | Category | Details |
 |---|---|
-| **Stack** | React, Node.js, Express, MongoDB, REST APIs |
+| **Stack** | React, Django/Node, REST APIs |
 | **Scale** | Large curated catalog across regional & global cinema |
 | **Performance** | Optimized search & filtering with responsive dark-theme rendering |
-| **Security** | Secure API integration, sanitized query handling |
+| **Security** | Sanitized query handling on all API integrations |
 | **Impact** | Streamlines cross-platform movie discovery for cinephiles |
-| **Repository** | [`github.com/your-username/irfa`](https://github.com/your-username/irfa) |
-
-Designed with a premium cinematic aesthetic, IRFA focuses on fast content discovery, platform-availability lookups, and a curated catalog experience tailored to Tollywood and MCU audiences.
+| **Repository** | [View on GitHub](https://github.com/Suryaa-k?tab=repositories) |
 
 </details>
 
@@ -142,14 +180,12 @@ A full Django-based platform enabling students to exchange skills peer-to-peer, 
 
 | Category | Details |
 |---|---|
-| **Stack** | Django, Django REST Framework, Python, PostgreSQL/SQLite |
+| **Stack** | Django, Django REST Framework, Python, SQLite/MySQL |
 | **Scale** | 6 modular Django apps with a unified design system |
 | **Performance** | RESTful API layer with structured, scalable data models |
 | **Security** | Django's built-in auth & permission-based access control |
 | **Impact** | Enables structured peer skill-sharing within campus communities |
-| **Repository** | [`github.com/your-username/skillbridge`](https://github.com/your-username/skillbridge) |
-
-Built with seeded demo data, a full DRF API layer, and a cohesive design system — engineered for real-world extensibility and clean separation of concerns across apps.
+| **Repository** | [View on GitHub](https://github.com/Suryaa-k?tab=repositories) |
 
 </details>
 
@@ -158,54 +194,16 @@ Built with seeded demo data, a full DRF API layer, and a cohesive design system 
 
 <br/>
 
-An in-browser React SPA that runs Python natively via Pyodide, offering step-by-step execution tracing and rich visualizations for data structures & algorithms — built for A's Turnkey Solutions.
+An in-browser React SPA running Python via Pyodide, with step-by-step execution tracing and visualizer components for algorithm learning — built for A's Turnkey Solutions.
 
 | Category | Details |
 |---|---|
-| **Stack** | React, Pyodide (Python-in-browser), JavaScript, WebAssembly |
+| **Stack** | React, Pyodide (Python-in-browser), JavaScript |
 | **Scale** | 147-problem curriculum spanning 20 DSA topics |
 | **Performance** | Real-time in-browser Python execution with step tracing |
 | **Security** | Fully sandboxed client-side execution — no server code risk |
 | **Impact** | Interactive learning tool for algorithm & data structure mastery |
-| **Repository** | [`github.com/your-username/dsa-visualizer`](https://github.com/your-username/dsa-visualizer) |
-
-Features multiple custom visualizer components — Call Stack View, Array View, and Tree View — backed by a comprehensive PRD and a structured 20-topic curriculum architecture.
-
-</details>
-
-<details>
-<summary><b>🩺 Parkinson's Disease Detection — ML Diagnostic Model</b></summary>
-
-<br/>
-
-A supervised machine learning model designed to detect early indicators of Parkinson's disease from biomedical voice measurements.
-
-| Category | Details |
-|---|---|
-| **Stack** | Python, scikit-learn, Pandas, NumPy |
-| **Scale** | Biomedical voice-feature dataset with multi-feature classification |
-| **Performance** | Optimized classifier with tuned hyperparameters |
-| **Security** | Local, privacy-conscious data handling |
-| **Impact** | Demonstrates applied ML for early-stage health diagnostics |
-| **Repository** | [`github.com/your-username/parkinsons-detection`](https://github.com/your-username/parkinsons-detection) |
-
-</details>
-
-<details>
-<summary><b>🛡️ Cyber Attack Detection — Network Threat Classification Model</b></summary>
-
-<br/>
-
-A machine learning classification system trained to identify and categorize cyber attack patterns from network traffic data.
-
-| Category | Details |
-|---|---|
-| **Stack** | Python, scikit-learn, Pandas, Matplotlib |
-| **Scale** | Multi-class network intrusion dataset |
-| **Performance** | Evaluated across precision, recall & F1 for threat classes |
-| **Security** | Core focus: intrusion/attack pattern detection |
-| **Impact** | Applied ML for proactive network threat identification |
-| **Repository** | [`github.com/your-username/cyber-attack-detection`](https://github.com/your-username/cyber-attack-detection) |
+| **Repository** | [View on GitHub](https://github.com/Suryaa-k?tab=repositories) |
 
 </details>
 
@@ -213,24 +211,21 @@ A machine learning classification system trained to identify and categorize cybe
 
 ## 💼 Experience
 
-### **Python Full-Stack Developer**
-**CV Corp** · *Internship*
+### **Python Full-Stack Developer — Intern**
+**CV Corp**, Hyderabad, India · *Oct 2025 – Present*
 
-Contributed as a Python Full-Stack Developer, building and delivering client-facing web applications with an emphasis on scalable backend design and clean frontend implementation.
-
-- Engineered full-stack features across the MERN and Django/Python ecosystems
-- Led development of a client-facing React SPA (DSA Code Visualizer) for **A's Turnkey Solutions**, including in-browser Python execution via Pyodide
-- Authored a comprehensive Product Requirements Document (PRD) covering platform architecture and curriculum design
-- Iteratively refined UI/UX based on visual review cycles and targeted fixes
-- Collaborated on API design, data modeling, and component architecture
+- Developed and maintained full-stack web applications using Python, Django, and ReactJS, improving overall code maintainability by **30%**
+- Built and consumed REST APIs to integrate front-end interfaces with back-end services, reducing data retrieval time by **25%**
+- Collaborated with cross-functional teams to deliver **3+ client-facing features** within agile sprint cycles
+- Wrote clean, documented Python scripts for data processing and automation tasks, reducing manual effort by **40%**
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/React-1a1a2e?style=flat-square&logo=react&logoColor=A78BFA"/>
 <img src="https://img.shields.io/badge/Django-1a1a2e?style=flat-square&logo=django&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/React-1a1a2e?style=flat-square&logo=react&logoColor=A78BFA"/>
 <img src="https://img.shields.io/badge/REST%20APIs-1a1a2e?style=flat-square&logo=fastapi&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/Pyodide-1a1a2e?style=flat-square&logo=webassembly&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/Agile-1a1a2e?style=flat-square&logo=jira&logoColor=A78BFA"/>
 
 </div>
 
@@ -242,11 +237,11 @@ Contributed as a Python Full-Stack Developer, building and delivering client-fac
 
 | Recognition | Details |
 |---|---|
-| 🎓 **B.Tech CSE Graduate** | JNTUH, Class of 2025 |
-| 🧩 **147-Problem DSA Curriculum** | Designed & structured across 20 core algorithmic topics |
-| 🏗️ **Client Project Delivery** | Delivered production platform for A's Turnkey Solutions |
-| 🔁 **Full System Migration** | Converted SkillBridge from static mockup to full Django platform |
-| 📈 **Consistent DSA Practice** | Systematic LeetCode practice across difficulty tiers & techniques |
+| 🎓 **B.Tech CSE Graduate** | Malla Reddy Institute of Technology and Science, JNTUH (2021–2025) |
+| ♟️ **School Chess Champion** | Won the school-level chess championship |
+| 🌐 **National-Level Event Participant** | Represented college in national-level technical competitions & hackathons |
+| 🤝 **Active Member, NSS** | Participated in community development & social welfare drives |
+| 💻 **Member, Computer Society of India (CSI)** | Engaged with tech community, attended seminars & industry talks |
 
 </div>
 
@@ -254,29 +249,28 @@ Contributed as a Python Full-Stack Developer, building and delivering client-fac
 
 ## 📜 Certifications
 
-**Amazon Web Services**
+**CV Corp**
 
 <div align="center">
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20/%20Fundamentals-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/CV%20Corp-Python%20Full--Stack%20Development-8A2BE2?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e"/>
 </div>
 
-**Oracle**
+**HackerRank**
 
 <div align="center">
-<img src="https://img.shields.io/badge/Oracle-SQL%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/HackerRank-SQL%20(Basic%20%26%20Intermediate)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a1a2e"/>
 </div>
 
-**NPTEL**
+**Infosys Springboard**
 
 <div align="center">
-<img src="https://img.shields.io/badge/NPTEL-Java%20Programming-8A2BE2?style=for-the-badge&logo=coursera&logoColor=white&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/NPTEL-Artificial%20Intelligence-8A2BE2?style=for-the-badge&logo=coursera&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Infosys%20Springboard-Introduction%20to%20AI-0B5FFF?style=for-the-badge&logo=infosys&logoColor=white&labelColor=1a1a2e"/>
 </div>
 
-**Cisco**
+**KOSKILL**
 
 <div align="center">
-<img src="https://img.shields.io/badge/Cisco-Web%20Development-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/KOSKILL-Web%20Development-6C3FC5?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1a2e"/>
 </div>
 
 ---
@@ -285,20 +279,19 @@ Contributed as a Python Full-Stack Developer, building and delivering client-fac
 
 <div align="center">
 
-<a href="https://leetcode.com/your-username">
+<a href="https://leetcode.com/Suryaa-k">
 <img src="https://img.shields.io/badge/LeetCode-Solving%20Consistently-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e"/>
 </a>
-<a href="https://geeksforgeeks.org/user/your-username">
+<a href="https://www.geeksforgeeks.org/user/Suryaa-k">
 <img src="https://img.shields.io/badge/GeeksforGeeks-Active%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a1a2e"/>
 </a>
-<a href="https://hackerrank.com/your-username">
-<img src="https://img.shields.io/badge/HackerRank-Problem%20Solver-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a1a2e"/>
-</a>
-<a href="https://codechef.com/users/your-username">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programmer-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1a2e"/>
+<a href="https://www.hackerrank.com/Suryaa-k">
+<img src="https://img.shields.io/badge/HackerRank-SQL%20Certified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a1a2e"/>
 </a>
 
 </div>
+
+> ⚠️ Coding-profile links above assume your handle matches your GitHub username (`Suryaa-k`) — swap in your actual LeetCode/GFG usernames if they differ.
 
 ---
 
@@ -306,12 +299,12 @@ Contributed as a Python Full-Stack Developer, building and delivering client-fac
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=A78BFA&icon_color=8a2be2&text_color=e0d4ff"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true&background=1a1a2e&stroke=8a2be2&ring=A78BFA&fire=8a2be2&currStreakLabel=e0d4ff"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Suryaa-k&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=A78BFA&icon_color=8a2be2&text_color=e0d4ff"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Suryaa-k&theme=radical&hide_border=true&background=1a1a2e&stroke=8a2be2&ring=A78BFA&fire=8a2be2&currStreakLabel=e0d4ff"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=A78BFA&text_color=e0d4ff"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryaa-k&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=A78BFA&text_color=e0d4ff"/>
 
 </div>
 
@@ -321,7 +314,7 @@ Contributed as a Python Full-Stack Developer, building and delivering client-fac
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&no-bg=false&margin-w=8&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Suryaa-k&theme=radical&no-frame=true&no-bg=false&margin-w=8&column=7"/>
 
 </div>
 
@@ -331,7 +324,7 @@ Contributed as a Python Full-Stack Developer, building and delivering client-fac
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&hide_border=true&bg_color=1a1a2e&color=A78BFA&line=8a2be2&point=e0d4ff"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suryaa-k&theme=react-dark&hide_border=true&bg_color=1a1a2e&color=A78BFA&line=8a2be2&point=e0d4ff"/>
 
 </div>
 
@@ -341,9 +334,11 @@ Contributed as a Python Full-Stack Developer, building and delivering client-fac
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Suryaa-k/Suryaa-k/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
+
+> ℹ️ This renders only after you add the [snake generator GitHub Action](https://github.com/Platane/snk) to a repo named exactly `Suryaa-k/Suryaa-k`.
 
 ---
 
@@ -351,24 +346,24 @@ Contributed as a Python Full-Stack Developer, building and delivering client-fac
 
 ```yaml
 learning:
-  - Advanced system design & distributed architectures
-  - Deep learning fundamentals & neural network design
-  - Cloud-native deployment patterns (AWS)
+  - Advanced Django architecture & REST API design patterns
+  - Deep learning fundamentals for medical & security applications
+  - System design basics for scalable web applications
 
 building:
   - IRFA — cinematic movie discovery platform
   - Expanding the DSA Code Visualizer problem curriculum
-  - Personal portfolio with production-grade design systems
+  - Personal portfolio and project case studies
 
 exploring:
-  - LLM-powered application architectures
-  - Prompt engineering for technical interview simulation
-  - Scalable ML deployment pipelines
+  - Prompt engineering & applied Generative AI workflows
+  - Cloud deployment fundamentals
+  - Advanced ML pipelines for diagnostic and security systems
 
 open_to:
-  - Software Engineer roles at product-driven companies
-  - AI/ML Engineer opportunities
-  - Full-stack freelance & contract engagements
+  - Entry-level Software Development Engineer roles
+  - Python Full-Stack Developer opportunities
+  - AI/ML Engineer roles
 ```
 
 ---
@@ -377,10 +372,10 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-5B21B6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="mailto:suryaanish1149198@gmail.com"><img src="https://img.shields.io/badge/Gmail-5B21B6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://www.linkedin.com/in/surya-anish-kudupudi-6a2458227/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://github.com/Suryaa-k"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://surya-anish.onrender.com/#home"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
 
 </div>
 
@@ -388,7 +383,7 @@ open_to:
 
 <div align="center">
 
-<i>"Great software isn't just written — it's engineered, tested, and refined until it feels inevitable."</i>
+<i>"Clean code and clear thinking solve most engineering problems."</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,50:5a2a9e,100:1a1a2e&height=150&section=footer"/>
 
